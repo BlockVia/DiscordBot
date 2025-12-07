@@ -1,0 +1,18 @@
+{
+    "botName": "Farfshe Bot",
+    "prefix": "!",
+    "colors": {
+        "primary": "#7C3AED",
+        "success": "#2ECC71",
+        "error": "#FF6B6B",
+        "warning": "#FFD700",
+        "info": "#3498DB"
+    },
+    "emojis": {
+        "success": "✅",
+        "error": "❌",
+        "warning": "⚠️",
+        "info": "ℹ️",
+        "loading": "⏳"
+    }
+}

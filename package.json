@@ -1,0 +1,27 @@
+{
+    "name": "farfshe-bot",
+    "version": "2.0.0",
+    "description": "🎭 Farfshe Bot - بوت Discord احترافي لإدارة الرتب",
+    "main": "index_new.js",
+    "scripts": {
+        "start": "node index_new.js",
+        "dev": "nodemon index_new.js",
+        "old": "node index.js"
+    },
+    "dependencies": {
+        "discord.js": "^14.14.1",
+        "dotenv": "^16.4.7",
+        "canvas": "^2.11.2"
+    },
+    "devDependencies": {
+        "nodemon": "^3.0.1"
+    },
+    "keywords": [
+        "discord",
+        "bot",
+        "roles",
+        "arabic"
+    ],
+    "author": "Farfshe Bot Team",
+    "license": "MIT"
+}
